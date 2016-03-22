@@ -205,6 +205,7 @@ qname({_, "item"}) -> entry;
 qname({_, "language"}) -> language;
 qname({_, "link"}) -> link;
 qname({_, "name"}) -> name;
+qname({_, "date"}) -> updated;
 qname({_, "pubDate"}) -> updated;
 qname({_, "subtitle"}) -> subtitle;
 qname({_, "summary"}) -> summary;
